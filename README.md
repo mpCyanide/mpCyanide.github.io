@@ -1,3 +1,3 @@
 # mpCyanide.github.io
 
-<https://example.com>
+{[Link Text](javascript)}
