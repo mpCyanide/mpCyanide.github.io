@@ -1,3 +1,3 @@
 # mpCyanide.github.io
 
-<javascript: alert()>
+<https://example.com>
